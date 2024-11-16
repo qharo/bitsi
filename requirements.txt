@@ -4,7 +4,5 @@ numpy==1.24.4
 protobuf==5.28.3
 sentencepiece==0.2.0
 tokenizers==0.20.3
---find-links https://download.pytorch.org/whl/cpu
-torch==2.4.1
 tqdm==4.67.0
 transformers==4.46.2
