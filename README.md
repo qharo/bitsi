@@ -1,6 +1,6 @@
 
 ## BitNet b1.58
-BitNet b1.58 packing weights into 2 bits, enabling 16x model compression.
+BitNet b1.58 packing weights into 2 bits, enabling 16x model compression. Refer [here](https://qharo.github.io/projects/bitsi/) for more information!
 
 ## Setup
 1. Run setup.sh to create a Python environment, install libraries and CPP
